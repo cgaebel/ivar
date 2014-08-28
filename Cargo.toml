@@ -1,5 +1,5 @@
 [package]
 
-name = "src"
+name = "slimrc"
 version = "0.0.1"
 authors = ["Clark Gaebel <cgaebel@mozilla.com>"]
